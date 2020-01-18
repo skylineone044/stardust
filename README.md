@@ -8,7 +8,12 @@ It is based on [FlatBlur](https://github.com/Davide-sd/FlatBlur), which is based
 Stardust-plasma is the complementing theme for Stardust-kv to make the plasma desktop look like the rest of the apps that have the kvantum theme applied.
 
 It is cobbled together from different pieces from [Nilium](https://store.kde.org/p/1226329), [Deepin theme for KDE](https://store.kde.org/p/1231459/), [plasma-MojaveCT-Dark](https://store.kde.org/p/1291656/), and modified in some places.
-
+## Aurorae theme (window decorations, the titlebar)
+[BreezeBlurred](https://store.kde.org/p/1221562/), opacity: 45%
+## Panels and dock
+[Latte dock](https://store.kde.org/p/1169519/), background opacity: 5%
+## Icons
+[Papirus](https://store.kde.org/p/1166289/)
 ## Screenshots
 ![Basic desktop, with latte dock](screenshots/01-basic.png)
 ![Dolphin and Konsole](screenshots/02-files-and-term.png)
