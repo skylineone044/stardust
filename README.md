@@ -5,7 +5,8 @@ Stardust-kv is a theme using the [Kvantum](https://github.com/tsujan/Kvantum/tre
 It is based on [FlatBlur](https://github.com/Davide-sd/FlatBlur), which is based on [Akava-Kv](https://github.com/Akava-Design/Akava-Kv)
 
 ## Plasma theme
-Stardust-plasma is the complementing theme for Stardust-kv to make the plasma desktop look like the rest of the apps that have the kvantum theme applied
+Stardust-plasma is the complementing theme for Stardust-kv to make the plasma desktop look like the rest of the apps that have the kvantum theme applied.
+
 It is cobbled together from different pieces from [Nilium](https://store.kde.org/p/1226329), [Deepin theme for KDE](https://store.kde.org/p/1231459/), [plasma-MojaveCT-Dark](https://store.kde.org/p/1291656/), and modified in some places.
 
 ## Screenshots
@@ -14,4 +15,8 @@ It is cobbled together from different pieces from [Nilium](https://store.kde.org
 ![Kvantum-manager and it's preview window](screenshots/03-kvantum.png)
 ![System Settings and Dolphin](screenshots/04-systemsettingsandfiles.png)
 ![I actually have 2 monitors](screenshots/05-busy.png)
+
+### Wallpaper
+source: [reddit of all places](https://www.reddit.com/r/TheExpanse/comments/cteld0/a_bunch_of_wallpapers_4480x1600px/)
+![Epstien's yacht from The Expanse](screenshots/epsiens_yacht.jpg)
 
