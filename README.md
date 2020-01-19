@@ -20,6 +20,9 @@ It is cobbled together from different pieces from [Nilium](https://store.kde.org
 ![Kvantum-manager and it's preview window](screenshots/03-kvantum.png)
 ![System Settings and Dolphin](screenshots/04-systemsettingsandfiles.png)
 ![I actually have 2 monitors](screenshots/05-busy.png)
+---
+![Plasma the #1](screenshots/plasma01.png)
+![Plasma the #2](screenshots/plasma02.png)
 
 ### Wallpaper
 source: [reddit of all places](https://www.reddit.com/r/TheExpanse/comments/cteld0/a_bunch_of_wallpapers_4480x1600px/)
