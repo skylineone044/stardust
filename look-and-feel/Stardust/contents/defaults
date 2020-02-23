@@ -7,6 +7,9 @@ ColorScheme=Stardust
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
 
+[kdeglobals][Icons]
+Theme=Papirus-Dark
+
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
