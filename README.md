@@ -13,6 +13,8 @@ It is cobbled together from different pieces from [Nilium](https://store.kde.org
 link or move `look-and-feel/Stardust` to `~/.local/share/plasma/look-and-feel/Stardust`,
 so you can easily set Plasma theme, colors, widget style, cursors, icons
 
+This also provides the modified volume and brightness OSD, [made by koneko-nyaa](https://www.reddit.com/r/kde/comments/9j57z2/fixing_the_awful_volumebrightness_osd_size/)
+
 ## Aurorae theme (window decorations, the titlebar)
 [BreezeBlurred](https://store.kde.org/p/1221562/), opacity: 45%
 ## Panels and dock
