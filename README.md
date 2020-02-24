@@ -21,6 +21,8 @@ This also provides the modified volume and brightness OSD, [made by koneko-nyaa]
 [Latte dock](https://store.kde.org/p/1169519/), background opacity: 5%
 ## Icons
 [Papirus](https://store.kde.org/p/1166289/)
+## Telegram theme
+[Here](https://t.me/addtheme/stardust_044)
 ## Screenshots
 ![Basic desktop, with latte dock](screenshots/01-basic.png)
 ![Dolphin and Konsole](screenshots/02-files-and-term.png)
