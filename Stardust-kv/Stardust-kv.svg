@@ -17,13 +17,13 @@
    width="200mm"
    enable-background="new">
   <sodipodi:namedview
-     inkscape:current-layer="g7411"
+     inkscape:current-layer="slidercursor-normal"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
-     inkscape:window-x="1360"
-     inkscape:cy="1068.2643"
-     inkscape:cx="278.34343"
-     inkscape:zoom="1.0815451"
+     inkscape:window-y="324"
+     inkscape:window-x="1920"
+     inkscape:cy="1030.3426"
+     inkscape:cx="554.96602"
+     inkscape:zoom="5.6568542"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="835"
@@ -9647,7 +9647,7 @@
   <g
      id="slidercursor-normal"
      inkscape:label="slidercursor-normal"
-     transform="translate(-1.375,3.1249999)">
+     transform="translate(5.5192911,3.3017766)">
     <circle
        cx="489.66052"
        cy="290.99536"
@@ -9658,67 +9658,67 @@
     <circle
        cx="489.66052"
        cy="290.99536"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000298"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94117928"
        id="slidcursor-inner"
        inkscape:label="#slidcursor-inner"
-       r="8.5" />
+       r="8" />
   </g>
   <g
-     transform="translate(37.406219,-1.125)"
+     transform="translate(39.881093,0.64276696)"
      id="slidercursor-focused"
      inkscape:label="slidercursor-focused">
     <circle
-       cx="482.41052"
-       cy="295.57181"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0082ff;stroke-width:1.89474189;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       cx="483.41052"
+       cy="294.57181"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0082ff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="slidcursor-outer-7"
        inkscape:label="#slidcursor-outer"
-       r="8.0526295" />
+       r="8.9473658" />
     <circle
-       cx="482.41052"
-       cy="295.57181"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.61929828"
+       cx="483.41052"
+       cy="294.57181"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88235563"
        id="slidcursor-inner-5"
        inkscape:label="#slidcursor-inner"
-       r="5.2640195" />
+       r="7.5" />
     <ellipse
        inkscape:label="#slidcursor-outer"
        id="circle2588"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0082ff;stroke-width:1.89474189;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       cy="295.57181"
-       cx="482.41052"
-       rx="8.0526285"
-       ry="8.0526295" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0082ff;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       cy="294.57181"
+       cx="483.41052"
+       rx="8.9473658"
+       ry="8.9473667" />
   </g>
   <g
-     transform="translate(71.017487)"
+     transform="translate(67.835506,2.4748737)"
      id="slidercursor-pressed"
      inkscape:label="slidercursor-pressed">
     <circle
-       cx="488.16049"
-       cy="292.49539"
-       style="fill:#0082ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:0.39215686"
+       cx="489.66052"
+       cy="290.99536"
+       style="fill:#0082ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.17647409;stroke-opacity:0.39215686"
        id="slidcursor-outer-5"
-       r="8.4999743"
+       r="10"
        inkscape:label="#slidcursor-outer" />
     <circle
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.70588446"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94491887"
        id="slidcursor-inner-6"
        inkscape:label="#slidcursor-inner"
-       cy="292.49539"
-       cx="488.16049"
-       r="6" />
+       cy="290.99536"
+       cx="489.66052"
+       r="8.0317869" />
   </g>
   <g
-     transform="translate(107.91672)"
+     transform="matrix(1.1764742,0,0,1.1764742,13.192765,-49.759145)"
      id="slidercursor-disabled"
      inkscape:label="slidercursor-disabled">
     <circle
-       cx="488.16049"
-       cy="292.49539"
-       style="fill:#ffffff;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none"
+       cx="491.8956"
+       cy="291.76544"
+       style="fill:#ffffff;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none;stroke-width:0.74999994"
        id="slidcursor-outer-6"
-       r="8.4999743"
+       r="6.3749804"
        inkscape:label="#slidcursor-outer" />
   </g>
   <g
