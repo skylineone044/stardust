@@ -4,7 +4,7 @@ printf "\nLinking Stardsut theme files..."
 
 printf "\nlinking colorscheme..."
 mkdir ~/.local/share/color-schemes
-ln -s color-schemes/Stardust.colors ~/.local/share/color-schemes
+ln -rs color-schemes/Stardust.colors ~/.local/share/color-schemes
 
 printf "\nlinking plasma style..."
 mkdir ~/.local/share/plasma
