@@ -73,10 +73,10 @@ shadowless_popup=false
 dark.color=#00000073
 tooltip.text.color=#ffffff
 alt.base.color=#ffffff08
-base.color=#00000073
+base.color=#00000000
 light.color=#5f677f73
 window.text.color=#ffffffc8
-window.color=#00000073
+window.color=#000000
 button.color=#ffffff73
 
 [Hacks]
