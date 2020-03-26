@@ -17,13 +17,13 @@
    width="200mm"
    enable-background="new">
   <sodipodi:namedview
-     inkscape:current-layer="g7392"
+     inkscape:current-layer="g6255"
      inkscape:window-maximized="1"
      inkscape:window-y="324"
      inkscape:window-x="1920"
-     inkscape:cy="1124.77"
-     inkscape:cx="365.3521"
-     inkscape:zoom="1.4142136"
+     inkscape:cy="899.46846"
+     inkscape:cx="527.63573"
+     inkscape:zoom="2.8284271"
      showgrid="false"
      id="namedview967"
      inkscape:window-height="785"
@@ -7706,7 +7706,7 @@
          rx="22.5"
          height="45"
          ry="22.5"
-         style="fill:#ffffff;fill-rule:evenodd;stroke:none;fill-opacity:0.39215687"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;fill-opacity:0.07843138"
          id="dial" />
       <g
          style="fill:#ffffff;fill-rule:evenodd;stroke:none"
@@ -9699,11 +9699,11 @@
      id="slidercursor-disabled"
      inkscape:label="slidercursor-disabled">
     <circle
-       cx="488.16049"
-       cy="292.49539"
-       style="fill:#ffffff;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none"
+       cx="484.16052"
+       cy="290.37036"
+       style="fill:#ffffff;fill-opacity:0.19607843;fill-rule:evenodd;stroke:none;stroke-width:0.94117934"
        id="slidcursor-outer-6"
-       r="8.4999743"
+       r="8"
        inkscape:label="#slidcursor-outer" />
   </g>
   <g
@@ -10165,7 +10165,7 @@
   <g
      id="slidercursor-normal"
      inkscape:label="slidercursor-normal"
-     transform="translate(-0.88206087,1.2417379)">
+     transform="translate(-6.2570609,1.7417379)">
     <circle
        cx="489.66052"
        cy="290.99536"
@@ -10176,9 +10176,9 @@
     <circle
        cx="489.66052"
        cy="290.99536"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.88235557"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94117928"
        id="slidcursor-inner"
        inkscape:label="#slidcursor-inner"
-       r="7.5" />
+       r="8" />
   </g>
 </svg>
