@@ -57,7 +57,7 @@ scrollbar_in_view=false
 spin_button_width=16
 submenu_delay=190
 submenu_overlap=0
-tooltip_delay=0
+tooltip_delay=500
 transient_groove=true
 tree_branch_line=false
 no_inactiveness=false
@@ -397,7 +397,7 @@ text.italic=true
 frame.expansion=0
 
 [ComboBox]
-inherits=PanelButtonCommand
+inherits=LineEdit
 indicator.element=comboarrow
 indicator.size=12
 
