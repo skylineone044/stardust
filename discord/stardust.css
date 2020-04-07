@@ -50,15 +50,15 @@
 	--background-logo: #36393fa0;
 	--deprecated-card-bg: #0000004c;
 	--deprecated-store-bg: #0000001A;
-	--background-attachments: #00000066;
-	--background-search-bar: #00000033;
+	--background-attachments: #ffffff14;
+	--background-search-bar: #ffffff14;
 	/*--background-search-bar: #202225a0;*/
-	--background-switcher: #00000033;
-	--background-chatbox: #00000033;
+	--background-switcher: #1f1f1fff;
+	--background-chatbox: #ffffff14;
 	/*--background-chatbox: #20222550;*/
 	--background-lights-out: #000;
-	--background-pinned: #00000080;
-	--background-profile-expand: #00000033;
+	--background-pinned: #1f1f1fff;
+	--background-profile-expand: #1f1f1fff;
 	--text-lights-out: #f0f0f0;
 	/*--background-titlebar: #2f313650;*/
 	--background-titlebar: #0000008C;
