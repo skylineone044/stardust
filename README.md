@@ -24,7 +24,7 @@ This also provides the modified volume and brightness OSD, [made by koneko-nyaa]
 ## Telegram theme
 [Here](https://t.me/addtheme/stardust_044)
 ## Discord theme
-Based on [Glasscord](https://github.com/AryToNeX/Glasscord/blob/master/README.md), please use their instructions, just substitute theis example .css file with stardust.css
+Based on [Glasscord](https://github.com/AryToNeX/Glasscord/blob/master/README.md), please use their instructions, just substitute their example `.css` file with `stardust.css`
 ## Screenshots
 ![Basic desktop, with latte dock](screenshots/01-basic.png)
 ![Dolphin and Konsole](screenshots/02-files-and-term.png)
