@@ -36,6 +36,5 @@ Based on [Glasscord](https://github.com/AryToNeX/Glasscord/blob/master/README.md
 ![Plasma the #2](screenshots/plasma02.png)
 
 ### Wallpaper
-source: [reddit of all places](https://www.reddit.com/r/TheExpanse/comments/cteld0/a_bunch_of_wallpapers_4480x1600px/)
-![Epstien's yacht from The Expanse](screenshots/epsiens_yacht.jpg)
+![From the Expanse Season 4](screenshots/wallaper.png)
 
