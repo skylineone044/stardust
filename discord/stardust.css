@@ -42,11 +42,11 @@
 
 .theme-dark{
 	--background-primary: transparent;
-	--background-primary-alt: #0000004d;
-	--background-secondary: #0000004d;
+	--background-primary-alt: #0000001A;
+	--background-secondary: #00000014;
 	--background-secondary-chat: #00000069;
 	--background-secondary-alt: #00000069;
-	--background-tertiary: #00000033;
+	--background-tertiary: #0000004D;
 	--background-logo: #36393fa0;
 	--deprecated-card-bg: #0000004c;
 	--deprecated-store-bg: #0000001A;
