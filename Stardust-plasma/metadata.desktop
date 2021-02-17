@@ -10,3 +10,9 @@ X-KDE-PluginInfo-Name=Stardust
 X-KDE-PluginInfo-Version=1
 X-KDE-PluginInfo-Website=
 X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=true
+contrast=1
+intensity=0.4
+saturation=1
