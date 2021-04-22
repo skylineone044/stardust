@@ -4,30 +4,30 @@
 	--bf-color: #f2f2f2;
 	--bf-hover-bg: #ffffff25;
 	--bf-focused-color: #fefefe;
-	
+
 	--bf-icon-color: #f2f2f2;
     --bfs-light-bg: #ffffff32;
-	
+
 	--bf-urlbar-bg: var(--bfs-light-bg);
 	--bf-urlbar-color: var(--bf-color);
 	--bf-urlbar-focused-color: var(--bf-focused-color);
 	--bf-urlbar-active-bg: #000000F2;
 	--bf-urlbar-results-url-color: var(--bf-color);3
-	
+
 	--bf-tab-color: var(--bf-color);
 	--bf-tab-selected-bg: var(--bfs-light-bg);
-	
+
 	--bf-sidebar-bg: var(--bf-bg);
 	--bf-sidebar-color: var(--bf-color);
-	
+
 	--bf-splitter-bg: var(--bf-bg);
-	
+
 	--bf-menupopup-bg: var(--bf-urlbar-active-bg);
 	--bf-menupopup-color: var(--bf-color);
-	
+
 	--autocomplete-popup-background: var(--bf-bg) !important;
 	--default-arrowpanel-background: var(--bf-bg) !important;
-	--lwt-toolbarbutton-icon-fill: var(--bf-icon-color) !important;	
+	--lwt-toolbarbutton-icon-fill: var(--bf-icon-color) !important;
 }
 
 /* Light Mode */
@@ -36,26 +36,26 @@
 	--bf-color: #252525;
 	--bf-hover-bg: #1a1a1a20;
 	--bf-focused-color: #0a0a0a;
-	
+
 	--bf-icon-color: #0a0a0a;
-	
+
 	--bf-urlbar-bg: var(--bf-bg);
 	--bf-urlbar-color: var(--bf-color);
 	--bf-urlbar-focused-color: var(--bf-focused-color);
 	--bf-urlbar-active-bg: #f2f2f2BB;
 	--bf-urlbar-results-url-color: var(--bf-color);
-	
+
 	--bf-tab-color: var(--bf-color);
 	--bf-tab-selected-bg: var(--bf-bg);
-	
+
 	--bf-sidebar-bg: var(--bf-bg);
 	--bf-sidebar-color: var(--bf-color);
-	
+
 	--bf-splitter-bg: var(--bf-bg);
-	
+
 	--bf-menupopup-bg: var(--bf-bg);
 	--bf-menupopup-color: var(--bf-color);
-	
+
 	--autocomplete-popup-background: var(--bf-bg) !important;
 	--default-arrowpanel-background: var(--bf-bg) !important;
 	--lwt-toolbarbutton-icon-fill: var(--bf-icon-color) !important;
@@ -69,42 +69,42 @@
 	--bf-hover-bg: #ffffff25;
 	--bf-focused-color: #fefefe;
 	--bf-icon-color: var(--bf-color);
-	
+
 	--bf-urlbar-bg: #1a1a1a;
 	--bf-urlbar-color: var(--bf-color);
 	--bf-urlbar-focused-color: var(--bf-focused-color);
 	--bf-urlbar-active-bg: var(--bf-urlbar-bg);
 	--bf-urlbar-results-url-color: var(--bf-color);
-	
+
 	--bf-tab-color: var(--bf-color);
 	--bf-tab-selected-bg: #353535;
-	
+
 	--bf-sidebar-bg: var(--bf-bg);
 	--bf-sidebar-color: var(--bf-color);
-	
+
 	--bf-splitter-bg: var(--bf-bg);
-	
+
 	--bf-menupopup-bg: var(--bf-bg);
 	--bf-menupopup-color: var(--bf-color);
-	
-	
+
+
 	--bf-accent-bg: #0083ffCC;
 	--bf-urlbar-results-font-size: 12pt;
 	--bf-urlbar-results-font-weight: 450;
 	--bf-urlbar-font-size: 12pt;
 	--bf-urlbar-font-weight: 400;
-	
+
 	--bf-tab-font-size: 11pt;
 	--bf-tab-font-weight: 500;
-	
+
 	--bf-navbar-padding: 4px;
 	--bf-switch-tab-color: #6498EF;
 	--bf-bookmark-color: #e0e253;
-	
+
 	--bf-tab-height: 32px;
 	--bf-tab-border-radius: 6px;
 	--bf-tab-soundplaying-bg: #0082ff65;
-		
+
 	--default-arrowpanel-color: #fefefa !important;
 	--panel-disabled-color: #f9f9fa80;
 	--toolbar-bgcolor: transparent !important;
@@ -123,7 +123,7 @@ Transparent Window
 	font-kerning: normal;
 	background: transparent !important;
 	border: none !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 /*
@@ -213,7 +213,7 @@ toolbarbutton {
 	box-shadow: none !important;
 	display: none !important;
 	background: transparent !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 #urlbar[open=true] > #urlbar-background {
@@ -319,7 +319,7 @@ toolbarbutton {
 #back-button > .toolbarbutton-icon {
 	--backbutton-background: transparent !important;
 	border: none !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 /* Tracking */
@@ -344,7 +344,7 @@ toolbarbutton {
 	background: var(--bf-hover-bg) !important;
 }
 
-/* 
+/*
 ░▀█▀░█▀█░█▀▄░█▀▄░█▀█░█▀▄
 ░░█░░█▀█░█▀▄░█▀▄░█▀█░█▀▄
 ░░▀░░▀░▀░▀▀░░▀▀░░▀░▀░▀░▀
@@ -363,9 +363,9 @@ The tabs container
 }
 
 /* Transparent tabs */
-.toolbar-items {	
+.toolbar-items {
 	background-color: transparent !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 /* 	Set minimum height for tab bar */
@@ -391,7 +391,7 @@ The tabs container
 .tab-background {
 	border: none !important;
 	background: transparent !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 .tab-background[selected="true"] {
@@ -511,7 +511,7 @@ hbox.tab-content[pinned=true] .tab-text {
 }
 
 
-.private-browsing-indicator { 
+.private-browsing-indicator {
 	display: block;
 	background: transparent;
 }
@@ -520,7 +520,7 @@ hbox.tab-content[pinned=true] .tab-text {
 #TabsToolbar {
 	--toolbarbutton-active-background: transparent !important;
 	--toolbarbutton-hover-background: transparent !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 /* Left to Right Alignment of tabs toolbar */
@@ -533,11 +533,11 @@ hbox.tab-content[pinned=true] .tab-text {
 }
  */
 
-/* 
+/*
 ░█▀█░█▀▄░█▀▄░█▀█░█░█░█▀█░█▀█░█▀█░█▀▀░█░░
 ░█▀█░█▀▄░█▀▄░█░█░█▄█░█▀▀░█▀█░█░█░█▀▀░█░░
 ░▀░▀░▀░▀░▀░▀░▀▀▀░▀░▀░▀░░░▀░▀░▀░▀░▀▀▀░▀▀▀
- 
+
 The dropdown menus
 */
 
@@ -563,7 +563,7 @@ box.panel-arrowcontent {
 ░█▀▀░▀█▀░█▀█░█▀▄░█▀▄░█▀█░█▀▄
 ░█▀▀░░█░░█░█░█░█░█▀▄░█▀█░█▀▄
 ░▀░░░▀▀▀░▀░▀░▀▀░░▀▀░░▀░▀░▀░▀
- 
+
 The findbar
 */
 
@@ -572,7 +572,7 @@ The findbar
 	-moz-appearance: none !important;
 	background: transparent !important;
 	border: none !important;
-	-moz-appearance: -moz-mac-vibrancy-dark !important;
+	-moz-appearance: -moz-mac-vibrant-titlebar-dark !important;
 }
 
 #browser #appcontent #tabbrowser-tabbox findbar {
@@ -589,11 +589,11 @@ The findbar
 }
 
 
-/* 
+/*
 ░█▀▀░█▀█░█▀█░▀█▀░█▀▀░█░█░▀█▀░█▄█░█▀▀░█▀█░█░█
 ░█░░░█░█░█░█░░█░░█▀▀░▄▀▄░░█░░█░█░█▀▀░█░█░█░█
 ░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀░▀░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀
- 
+
 Right-click menu
 */
 
@@ -621,7 +621,7 @@ menupopup menuseparator {
 ░█▀▀░█░█░█▀▀░▀█▀░█▀█░█▄█░▀█▀░▀▀█░█▀█░▀█▀░▀█▀░█▀█░█▀█░█░█░▀█▀░█▀█░█▀▄░█▀█░█░█
 ░█░░░█░█░▀▀█░░█░░█░█░█░█░░█░░▄▀░░█▀█░░█░░░█░░█░█░█░█░█▄█░░█░░█░█░█░█░█░█░█▄█
 ░▀▀▀░▀▀▀░▀▀▀░░▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░░▀░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀░░▀▀▀░▀░▀
- 
+
 The customization window
 */
 
@@ -652,7 +652,7 @@ The customization window
 ░█░█░▀█▀░█▀█░█▀▄░█▀█░█░█░█▀▄░█░█░▀█▀░▀█▀░█▀█░█▀█░█▀▀
 ░█▄█░░█░░█░█░█░█░█░█░█▄█░█▀▄░█░█░░█░░░█░░█░█░█░█░▀▀█
 ░▀░▀░▀▀▀░▀░▀░▀▀░░▀▀▀░▀░▀░▀▀░░▀▀▀░░▀░░░▀░░▀▀▀░▀░▀░▀▀▀
- 
+
 The control buttons. Contains, close, minimize, and maximize buttons
 */
 
