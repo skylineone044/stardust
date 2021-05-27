@@ -1,6 +1,6 @@
 # Stardust
 
-![Stardust](screenshots/02-files-and-term.png)
+![Stardust](screenshots/01.png)
 
 ## Kvantum theme
 
@@ -43,17 +43,21 @@ so you can easily set Plasma theme, colors, widget style, cursors, icons
 
 ## Screenshots
 
-![Basic desktop, with latte dock](screenshots/01-basic.png)
-![Dolphin and Konsole](screenshots/02-files-and-term.png)
-![Kvantum-manager and it's preview window](screenshots/03-kvantum.png)
-![System Settings and Dolphin](screenshots/04-systemsettingsandfiles.png)
-![I actually have 2 monitors](screenshots/05-busy.png)
+![Dolphin, Alacritty and Cantata](screenshots/01.png)
+![Menus and system settings](screenshots/02.png)
+![Kvantum manager](screenshots/03.png)
+![Latte](screenshots/04.png)
+![Context menu](screenshots/05.png)
 
 ---
 
 ![Plasma the #1](screenshots/plasma01.png)
 ![Plasma the #2](screenshots/plasma02.png)
 
-### Wallpaper
+### Wallpapers
 
-![From the Expanse Season 4](screenshots/wallaper.png)
+![Stargate render by James Schofield](screenshots/wallpapers/james-schofield-1-stargate-jschofield3d.jpg)
+![Razorback render from The Expanse by Graham Gazzard](screenshots/wallpapers/razorback_by_grahamtg_ddbtpwx.jpg)
+![Cover art for The Expanse by Daniel Dociu](screenshots/wallpapers/daniel-dociu-spacescene3.jpg)
+![Destiny render from Stargate Universe by GrahamTG](screenshots/wallpapers/vr42ja6fgte21.png)
+![Destiny render from Stargate Universe by Graham Gazzard](screenshots/wallpapers/ddeu9dc-1bf34550-3c4c-4ad1-8d9b-78ddb82715b4.jpg)
