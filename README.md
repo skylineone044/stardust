@@ -49,11 +49,6 @@ so you can easily set Plasma theme, colors, widget style, cursors, icons
 ![Latte](screenshots/04.png)
 ![Context menu](screenshots/05.png)
 
----
-
-![Plasma the #1](screenshots/plasma01.png)
-![Plasma the #2](screenshots/plasma02.png)
-
 ### Wallpapers
 
 ![Stargate render by James Schofield](screenshots/wallpapers/james-schofield-1-stargate-jschofield3d.jpg)
