@@ -27,11 +27,11 @@ so you can easily set Plasma theme, colors, widget style, cursors, icons
 
 ## Aurorae theme (window decorations, the titlebar)
 
-[BreezeBlurred](https://store.kde.org/p/1221562/), opacity: 45%
+[ClassikStyles](https://github.com/paulmcauley/classikstyles), opacity: 55%
 
 ## Panels and dock
 
-[Latte dock](https://store.kde.org/p/1169519/), background opacity: 5%
+[Latte dock](https://invent.kde.org/plasma/latte-dock), background opacity: 5%
 
 ## Icons
 
