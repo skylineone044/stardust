@@ -31,7 +31,7 @@ so you can easily set Plasma theme, colors, widget style, cursors, icons
 
 ## Panels and dock
 
-[Latte dock](https://invent.kde.org/plasma/latte-dock), background opacity: 5%
+[Latte dock](https://invent.kde.org/plasma/latte-dock), background opacity: 30%
 
 ## Icons
 
