@@ -41,6 +41,12 @@ so you can easily set Plasma theme, colors, widget style, cursors, icons
 
 [Here](https://t.me/addtheme/stardust_044)
 
+## Discord theme
+
+I use the [BasicBackground](https://betterdiscord.app/theme/BasicBackground)
+theme, with custom modifications added with `discord/custom.css`, that are applied
+using BetterDiscord's Custom CSS option
+
 ## Screenshots
 
 ![Dolphin, Alacritty and Cantata](screenshots/01.png)
