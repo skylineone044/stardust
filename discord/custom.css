@@ -1,0 +1,39 @@
+/* this is the custom CSS to modifiy the https://betterdiscord.app/theme/BasicBackground theme, to better fit my system theme 
+   put is inside the custom CSS editor of BetterDIscord, so it ovverrides the default BasicBackground colors
+ */
+
+:root {
+	--hoverBG: #0082ff40;
+	--hoverBG_selected: #2192ffff;
+	--transparentWhite: #ffffff25;
+}
+.scrollableContainer-2NUZem {  /* chat textbox */
+	background-color: var(--transparentWhite);
+}
+
+::-webkit-scrollbar-thumb,     /* scrollbars */
+#app-mount ::-webkit-scrollbar-thumb {
+	border-radius: 3px;
+	border: none;
+	background-color: var(--transparentWhite) !important;
+}
+
+.member-3-YXUe:hover .layout-2DM8Md,    /* member list */
+.channel-2QD9_O:hover .layout-2DM8Md,   /* dm chanel list item on hover */
+.wrapper-2jXpOf:hover .content-1x5b-n {	/* chanel list item on hover*/
+	background-color: var(--hoverBG);
+}
+
+.selected-aXhQR6.channel-2QD9_O:hover .layout-2DM8Md,  /* dm chanel selected item on hover */
+.modeSelected-346R90:hover .content-1x5b-n {    /* chanel selected on hover */
+	background-color: var(--hoverBG_selected);
+}
+
+.peopleListItem-2nzedh.active-rhSpJJ,
+.peopleListItem-2nzedh:hover {  /* online friends hover bg */
+	background-color: var(--hoverBG);
+}
+#app-mount .outer-1AjyKL.active-1xchHY,
+#app-mount .outer-1AjyKL.interactive-3B9GmY:hover {  /* active now cacrd hover bg */
+	background-color: var(--hoverBG);
+}
