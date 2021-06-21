@@ -1,8 +1,5 @@
-/* this is the custom CSS to modifiy the https://betterdiscord.app/theme/BasicBackground theme, to better fit my system theme 
-   put is inside the custom CSS editor of BetterDIscord, so it ovverrides the default BasicBackground colors
- */
-
 :root {
+	--accentColor: #0d76db;
 	--hoverBG: #0082ff40;
 	--hoverBG_selected: #2192ffff;
 	--transparentWhite: #ffffff25;
@@ -36,4 +33,16 @@
 #app-mount .outer-1AjyKL.active-1xchHY,
 #app-mount .outer-1AjyKL.interactive-3B9GmY:hover {  /* active now cacrd hover bg */
 	background-color: var(--hoverBG);
+}
+
+.button-1YfofB.buttonColor-7qQbGO {   /* active in voicechalel video and screen sharing buttons bg */
+	background-color: var(--transparentWhite);
+}
+
+.button-1YfofB.buttonColor-7qQbGO:hover { /* active in voicechalel video and screen sharing buttons bg on hover */
+	background-color: var(--hoverBG);
+}
+
+.button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover { /* active in voicechalel video and screen sharing buttons bg on hover when active */
+	background-color: var(--hoverBG_selected);
 }
