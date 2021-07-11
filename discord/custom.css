@@ -3,7 +3,13 @@
 	--hoverBG: #0082ff40;
 	--hoverBG_selected: #2192ffff;
 	--transparentWhite: #ffffff25;
+	--transparentBlack: #00000025;	
 }
+
+body::before {
+	background: #00000041 var(--backgroundposition)/var(--backgroundsize);
+}
+
 .scrollableContainer-2NUZem {  /* chat textbox */
 	background-color: var(--transparentWhite);
 }
@@ -15,12 +21,14 @@
 	background-color: var(--transparentWhite) !important;
 }
 
+.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover:not(.disabled-1Hwwfb), /* settings sibear menu item on hover */
 .member-3-YXUe:hover .layout-2DM8Md,    /* member list */
 .channel-2QD9_O:hover .layout-2DM8Md,   /* dm chanel list item on hover */
 .wrapper-2jXpOf:hover .content-1x5b-n {	/* chanel list item on hover*/
 	background-color: var(--hoverBG);
 }
 
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:hover, /* setting sidebar menu item selecteed on hover */
 .selected-aXhQR6.channel-2QD9_O:hover .layout-2DM8Md,  /* dm chanel selected item on hover */
 .modeSelected-346R90:hover .content-1x5b-n {    /* chanel selected on hover */
 	background-color: var(--hoverBG_selected);
@@ -45,4 +53,8 @@
 
 .button-1YfofB.buttonColor-7qQbGO.buttonActive-3FrkXp:hover { /* active in voicechalel video and screen sharing buttons bg on hover when active */
 	background-color: var(--hoverBG_selected);
+}
+
+#app-mount .themedPopout-1TrfdI {	/* themed popout */
+	background-color: var(--transparentBlack);
 }
