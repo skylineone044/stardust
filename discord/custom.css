@@ -3,7 +3,7 @@
 	--hoverBG: #0082ff40;
 	--hoverBG_selected: #2192ffff;
 	--transparentWhite: #ffffff25;
-	--transparentBlack: #00000025;	
+	--transparentBlack: rgba(0, 0, 0, 0.8);	
 }
 
 body::before {
@@ -57,4 +57,9 @@ body::before {
 
 #app-mount .themedPopout-1TrfdI {	/* themed popout */
 	background-color: var(--transparentBlack);
+}
+
+div.popout-APcvZm {
+	background-color: var(--transparentBlack);
+	backdrop-filter: blur(var(--backgroundblur));
 }
