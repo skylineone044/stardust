@@ -28,7 +28,7 @@
 	--textshadow:					0, 0, 0, 0.8;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					rgba(0, 0, 0, 0.1);	/* general background image				*/
+	--background:					rgba(0, 0, 0, 0.5);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				10px;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
@@ -38,7 +38,7 @@
 	--popoutsize:					var(--backgroundsize);		/* default: cover				(sizefit of popout - values: [cover/contain/auto])								*/
 	--popoutblur:					var(--backgroundblur);		/* default: unset				(blur in px, only works when --popout is set to an image)						*/
 	
-	--backdrop:						rgba(0,0,0,0.2);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
+	--backdrop:						rgba(0,0,0,0.5);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
 	--backdropposition:				var(--backgroundposition);	/* default: center				(position of backdrop - values: [center/top/right/bottom/left])					*/
 	--backdropsize:					var(--backgroundsize);		/* default: cover				(sizefit of backdrop - values: [cover/contain/auto])							*/
 	--backdropblur:					var(--backgroundblur);		/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
