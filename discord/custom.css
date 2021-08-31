@@ -63,3 +63,9 @@ div.popout-APcvZm {
 	background-color: var(--transparentBlack);
 	backdrop-filter: blur(var(--backgroundblur));
 }
+.reaction-1hd86g.reactionMe-wv5HKu {
+	background-color: var(--hoverBG);
+}
+.reaction-1hd86g.reactionMe-wv5HKu:hover {
+	background-color: var(--hoverBG_selected);
+}
