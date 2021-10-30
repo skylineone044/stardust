@@ -76,7 +76,7 @@ ForegroundVisited=127,140,141
 
 [Colors:View]
 BackgroundAlternate=49,54,59
-BackgroundNormal=33,33,33
+BackgroundNormal=18,18,18
 DecorationFocus=12,115,216
 DecorationHover=25,80,136
 ForegroundActive=233,233,233
@@ -90,7 +90,7 @@ ForegroundVisited=127,140,141
 
 [Colors:Window]
 BackgroundAlternate=77,77,77
-BackgroundNormal=18,18,18
+BackgroundNormal=0,0,0
 DecorationFocus=12,115,216
 DecorationHover=25,80,136
 ForegroundActive=64,137,233
@@ -104,7 +104,7 @@ ForegroundVisited=127,140,141
 
 [General]
 ColorScheme=Breeze Dark
-Name=Stardust
+Name=Stardust_pitchblack
 shadeSortColumn=true
 
 [KDE]
