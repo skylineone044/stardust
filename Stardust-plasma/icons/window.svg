@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="window.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg3869"
    height="32"
-   width="32">
+   width="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      inkscape:snap-others="false"
      inkscape:object-nodes="true"
@@ -24,14 +24,14 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg3869"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="10.581698"
-     inkscape:cx="24.895678"
-     inkscape:zoom="5.6568542"
+     inkscape:window-y="297"
+     inkscape:window-x="1920"
+     inkscape:cy="7.7500001"
+     inkscape:cx="59.625001"
+     inkscape:zoom="7.9999999"
      showgrid="true"
      id="namedview17"
-     inkscape:window-height="1009"
+     inkscape:window-height="1021"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,7 +44,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="1">
     <inkscape:grid
        id="grid845"
        type="xygrid"
@@ -105,6 +106,43 @@
         color:#da4453;
       }
       </style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
   </defs>
   <g
      transform="translate(55.639142,-14.775611)"
@@ -185,8 +223,9 @@
        style="clip-rule:evenodd;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke-width:1.00213;stroke-linejoin:round;stroke-miterlimit:1.41421" />
   </g>
   <g
-     transform="translate(44,-9)"
-     id="16-16-window-pin">
+     transform="translate(42,-33)"
+     id="16-16-window-pin-nilium"
+     inkscape:label="#16-16-window-pin-nilium">
     <path
        id="rect858"
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.92582"
@@ -201,8 +240,9 @@
        y="0" />
   </g>
   <g
-     transform="translate(41,7)"
-     id="window-pin">
+     transform="translate(39,-17)"
+     id="window-pin-nilium"
+     inkscape:label="#window-pin-nilium">
     <path
        id="rect878"
        style="fill:#ffffff;fill-opacity:1;stroke-width:1.0328"
@@ -217,7 +257,7 @@
        y="0" />
   </g>
   <g
-     transform="translate(66,-9)"
+     transform="translate(64,-33)"
      id="16-16-window-unpin">
     <path
        id="rect865-3-6"
@@ -233,7 +273,7 @@
        y="0" />
   </g>
   <g
-     transform="translate(63,7)"
+     transform="translate(61,-17)"
      id="window-unpin">
     <path
        id="path993"
@@ -276,5 +316,41 @@
        height="8"
        x="0"
        y="0" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421"
+     id="window-pin"
+     transform="translate(39.51,8.249)"
+     inkscape:label="#window-pin">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2-8"
+       style="fill:#ffffff"
+       d="M 18.057,7.406 C 17.51,7.728 16.843,7.769 16.266,7.527 l -2.309,3.682 c 0.52,0.865 0.565,1.937 0.135,2.838 L 11.384,11.34 6.434,16.289 3.943,18.04 5.727,15.582 10.677,10.632 7.97,7.925 C 8.871,7.495 9.942,7.54 10.808,8.06 L 14.49,5.751 C 14.248,5.174 14.288,4.506 14.611,3.96 Z" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-3"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.94403" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421"
+     id="16-16-window-pin"
+     transform="translate(67,9)"
+     inkscape:label="#16-16-window-pin">
+    <path
+       inkscape:connector-curvature="0"
+       id="path1052"
+       style="fill:#ffffff;stroke-width:0.756287"
+       d="m 16.337115,8.2819058 c -0.413689,0.2435243 -0.918132,0.2745321 -1.35451,0.091511 L 13.23634,11.158064 c 0.393269,0.654188 0.427302,1.464927 0.102098,2.146341 L 11.290414,11.257137 7.5467952,15 5.6628852,16.324258 7.0121006,14.465305 10.755719,10.721687 8.7084515,8.6744186 C 9.3898658,8.3492154 10.199849,8.3832483 10.854793,8.7765173 L 13.63944,7.0302515 C 13.456419,6.5938741 13.48667,6.0886746 13.730951,5.6757421 Z" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect1054"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.94403" />
   </g>
 </svg>
