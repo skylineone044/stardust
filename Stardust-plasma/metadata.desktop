@@ -1,3 +1,12 @@
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=0.40
+saturation=1.4
+
 [Desktop Entry]
 Comment=Stardust Plasma Theme, based on Nilium by David Linares (Mcder3)
 Name=Stardust
