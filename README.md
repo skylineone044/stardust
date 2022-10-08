@@ -2,6 +2,18 @@
 
 ![Stardust](screenshots/01.png)
 
+## Installation
+```shell
+cd $HOME
+mkdir Projects
+cd Projects/
+sudo pacman -S git
+git clone https://gitlab.com/skylineone044/stardust.git
+cd stardust
+chmod +x *.sh
+bash setup.sh
+```
+
 ## Kvantum theme
 
 Stardust-kv is a theme using the
