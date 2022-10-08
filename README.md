@@ -7,7 +7,6 @@
 cd $HOME
 mkdir Projects
 cd Projects/
-sudo pacman -S git
 git clone https://gitlab.com/skylineone044/stardust.git
 cd stardust
 chmod +x *.sh
