@@ -4,21 +4,21 @@ cursorTheme=Breeze_Snow
 [kdeglobals][General]
 ColorScheme=Stardust
 
-[kdeglobals][KDE]
-widgetStyle=kvantum-dark
-
 [kdeglobals][Icons]
 Theme=Papirus-Dark
+
+[kdeglobals][KDE]
+widgetStyle=kvantum-dark
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][WindowSwitcher]
-LayoutName=org.kde.breeze.desktop
+LayoutName=present_windows
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.breezeblurred
-theme=BreezeBlurred
+library=org.kde.klassy
+theme=Klassy
 
 [plasmarc][Theme]
 name=Stardust-plasma

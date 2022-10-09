@@ -7,31 +7,39 @@ var layout = {
             ],
             "config": {
                 "/": {
+                    "ItemGeometries-1920x1080": "",
+                    "ItemGeometries-3840x2160": "",
                     "ItemGeometriesHorizontal": "",
+                    "ItemGeometriesVertical": "Applet-28:3536,23,288,480,0;Applet-29:0,0,288,224,0;Applet-30:0,0,288,224,0;",
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "0",
                     "wallpaperplugin": "org.kde.slideshow"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "720",
-                    "DialogWidth": "960"
+                    "DialogHeight": "1021",
+                    "DialogWidth": "1256"
                 },
                 "/Configuration": {
                     "PreloadWeight": "0"
                 },
                 "/General": {
-                    "pressToMoveHelp": "false",
-                    "showToolbox": "false",
-                    "sortMode": "-1"
+                    "ToolBoxButtonState": "topcenter",
+                    "ToolBoxButtonX": "559",
+                    "ToolBoxButtonY": "34",
+                    "arrangement": "1",
+                    "iconSize": "2",
+                    "positions": "{\"3840x2160\":[\"1\"\\,\"20\"\\,\"desktop:/pacman.conf\"\\,\"0\"\\,\"6\"\\,\"desktop:/stardust_TS.lua\"\\,\"0\"\\,\"5\"\\,\"desktop:/nvim_highlite_colors_stardust_TS.lua\"\\,\"0\"\\,\"4\"\\,\"desktop:/old_setup.sh\"\\,\"0\"\\,\"3\"\\,\"desktop:/clematis.service\"\\,\"0\"\\,\"2\"\\,\"desktop:/bonya_ea_teszt_1_minta.txt\"\\,\"0\"\\,\"1\"\\,\"desktop:/ventoy usb drive stuff\"\\,\"0\"\\,\"0\"]\\,\"1920x1080\":[\"1\"\\,\"9\"\\,\"desktop:/stardust_TS.lua\"\\,\"0\"\\,\"6\"\\,\"desktop:/pacman.conf\"\\,\"0\"\\,\"5\"\\,\"desktop:/old_setup.sh\"\\,\"0\"\\,\"4\"\\,\"desktop:/nvim_highlite_colors_stardust_TS.lua\"\\,\"0\"\\,\"3\"\\,\"desktop:/clematis.service\"\\,\"0\"\\,\"2\"\\,\"desktop:/bonya_ea_teszt_1_minta.txt\"\\,\"0\"\\,\"1\"\\,\"desktop:/ventoy usb drive stuff\"\\,\"0\"\\,\"0\"]\\,\"1024x768\":[\"\"]}",
+                    "sortMode": "-1",
+                    "toolTips": "true"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///home/skyline/Pictures/Wallpapers/TheExpanse/cropped/epsiens_yacht.jpg"
+                    "Image": "file:///mnt/cupcake/Pictures/Wallpapers/slideshow/lee-fitzgerald-nf-edwardisrael-ext-03a.jpg",
+                    "SlidePaths": "/usr/share/wallpapers"
                 },
                 "/Wallpaper/org.kde.slideshow/General": {
-                    "Image": "file:///home/skyline/Pictures/Wallpapers/Slideshow/TheExpanse/vlcsnap-2019-12-21-11h31m20s713.png",
-                    "SlideInterval": "60",
-                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/Slideshow"
+                    "Image": "file:///mnt/cupcake/Pictures/Wallpapers/slideshow/tE_BEAN.png",
+                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/slideshow"
                 }
             },
             "wallpaperPlugin": "org.kde.slideshow"
@@ -41,6 +49,8 @@ var layout = {
             ],
             "config": {
                 "/": {
+                    "ItemGeometries-1920x1080": "",
+                    "ItemGeometries-3840x2160": "",
                     "ItemGeometriesHorizontal": "",
                     "formfactor": "0",
                     "immutability": "1",
@@ -48,20 +58,24 @@ var layout = {
                     "wallpaperplugin": "org.kde.slideshow"
                 },
                 "/ConfigDialog": {
-                    "DialogHeight": "959",
-                    "DialogWidth": "1280"
+                    "DialogHeight": "723",
+                    "DialogWidth": "1112"
                 },
                 "/Configuration": {
                     "PreloadWeight": "0"
                 },
                 "/General": {
-                    "pressToMoveHelp": "false",
-                    "showToolbox": "false"
+                    "ToolBoxButtonState": "topcenter",
+                    "ToolBoxButtonX": "576",
+                    "ToolBoxButtonY": "34"
+                },
+                "/Wallpaper/org.kde.image/General": {
+                    "Image": "file:///usr/share/wallpapers/Next/contents/images/1920x1080.png",
+                    "SlidePaths": "/usr/share/wallpapers"
                 },
                 "/Wallpaper/org.kde.slideshow/General": {
-                    "Image": "file:///home/skyline/Pictures/Wallpapers/Slideshow/SG/daedalus_2016_4k_by_alxfx_d9u6gie.jpg",
-                    "SlideInterval": "60",
-                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/Slideshow"
+                    "Image": "file:///mnt/cupcake/Pictures/Wallpapers/slideshow/paul-chadeisson-01-h3-pc-24-final-extended-crop2.jpg",
+                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/slideshow"
                 }
             },
             "wallpaperPlugin": "org.kde.slideshow"
@@ -71,111 +85,18 @@ var layout = {
             ],
             "config": {
                 "/": {
+                    "ItemGeometries-3840x2160": "",
                     "ItemGeometriesHorizontal": "",
                     "formfactor": "0",
                     "immutability": "1",
                     "lastScreen": "2",
-                    "wallpaperplugin": "org.kde.slideshow"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "540",
-                    "DialogWidth": "720"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                },
-                "/General": {
-                    "showToolbox": "false"
-                },
-                "/Wallpaper/org.kde.slideshow/General": {
-                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/Slideshow"
-                }
-            },
-            "wallpaperPlugin": "org.kde.slideshow"
-        },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "3",
-                    "wallpaperplugin": "org.kde.slideshow"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "578",
-                    "DialogWidth": "720"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "0"
-                },
-                "/General": {
-                    "showToolbox": "false"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///usr/share/wallpapers/Next/contents/images/1920x1080.png"
-                },
-                "/Wallpaper/org.kde.slideshow/General": {
-                    "Image": "file:///home/skyline/Pictures/Wallpapers/Slideshow/Space/heic0710a.jpg",
-                    "SlideInterval": "60",
-                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/Slideshow"
-                }
-            },
-            "wallpaperPlugin": "org.kde.slideshow"
-        },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "4",
                     "wallpaperplugin": "org.kde.image"
                 },
-                "/ConfigDialog": {
-                    "DialogHeight": "720",
-                    "DialogWidth": "960"
-                },
                 "/Configuration": {
                     "PreloadWeight": "0"
-                },
-                "/General": {
-                    "showToolbox": "false"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///usr/share/wallpapers/Next/contents/images/1920x1080.png"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
-        },
-        {
-            "applets": [
-            ],
-            "config": {
-                "/": {
-                    "formfactor": "0",
-                    "immutability": "1",
-                    "lastScreen": "5",
-                    "wallpaperplugin": "org.kde.slideshow"
-                },
-                "/ConfigDialog": {
-                    "DialogHeight": "703",
-                    "DialogWidth": "1360"
-                },
-                "/Configuration": {
-                    "PreloadWeight": "42"
-                },
-                "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///usr/share/wallpapers/Next/contents/images/1366x768.png"
-                },
-                "/Wallpaper/org.kde.slideshow/General": {
-                    "Image": "file:///home/skyline/Pictures/Wallpapers/Slideshow/SG/knight.jpg",
-                    "SlidePaths": "/home/skyline/Pictures/Wallpapers/Slideshow"
-                }
-            },
-            "wallpaperPlugin": "org.kde.slideshow"
         }
     ],
     "panels": [
